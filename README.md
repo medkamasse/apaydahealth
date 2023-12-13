@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @user-name
+- 👋 Hi
 - 👀 I’m interested in Content writing
 - 🌱 I’m currently learning SEO Effective Content Writing
 - 💞️ I’m working at <a href="https://apaydahealth.blogspot.com/" title="apaydahealth">https://apaydahealth.blogspot.com/</a>
